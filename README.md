@@ -8,7 +8,7 @@ I'm **Aaditya Raj**, a Full Stack & AI Software Developer and Computer Science u
 
 - 📌 **Pursuing B.Tech in CS**: Computer Science student at Sitare University (SRMU), Lucknow, recipient of the **100% Sitare CS Scholarship**.
 - 💻 **AI & Web Development**: Passionate about integrating Large Language Models (LLMs) and AI capabilities into full-stack applications.
-- 🚀 **Full Stack Expertise**: Experienced in crafting robust backend microservices with **Python (FastAPI, Django)** and modern responsive interfaces with **React, TypeScript, & Tailwind CSS**.
+- 🚀 **Full Stack Expertise**: Experienced in crafting robust backend microservices with **Python (FastAPI, Django, Node.js, Express.js)** and modern responsive interfaces with **React, & Tailwind CSS**.
 - 🛠️ **Problem Solving & Systems**: Solid foundation in Data Structures & Algorithms, OOP, Database Management (MySQL, MongoDB, SQLite), and Linux.
 - 💡 **Open to Opportunities**: Actively seeking software engineering, full-stack, and AI backend developer internships and roles.
 
@@ -19,7 +19,6 @@ I'm **Aaditya Raj**, a Full Stack & AI Software Developer and Computer Science u
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
