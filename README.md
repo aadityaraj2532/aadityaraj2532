@@ -9,7 +9,7 @@ I'm **Aaditya Raj**, a Full Stack & AI Software Developer and Computer Science u
 - 📌 **Pursuing B.Tech in CS**: Computer Science student at Sitare University (SRMU), Lucknow, recipient of the **100% Sitare CS Scholarship**.
 - 💻 **AI & Web Development**: Passionate about integrating Large Language Models (LLMs), RAG, and AI capabilities into full-stack applications to create interactive, smart user experiences.
 - 🚀 **Full Stack Expertise**: Experienced in building robust backend services with **Python (FastAPI, Django), Node.js, Express.js** and responsive frontends with **React, Redux, TypeScript, and Tailwind CSS**.
-- 🛠️ **Problem Solving & Systems**: Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Linux.
+- 🛠️ **Problem Solving & Systems**: Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems.
 - 💡 **Open to Opportunities**: Actively seeking software engineering, full-stack, and AI backend developer internships and roles.
 
 ---
@@ -20,7 +20,6 @@ I'm **Aaditya Raj**, a Full Stack & AI Software Developer and Computer Science u
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -62,7 +61,6 @@ I'm **Aaditya Raj**, a Full Stack & AI Software Developer and Computer Science u
 
 ### 🧰 Tools & Security
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -84,19 +82,6 @@ I'm **Aaditya Raj**, a Full Stack & AI Software Developer and Computer Science u
 | 🔬 **AI Research System** | Async REST API research engine with file uploads, cost tracking & workflow continuation. | Django REST, Celery, LangSmith, OpenAI |
 | 📈 **CryptoViz** | Interactive cryptocurrency analytics dashboard tracking price trends & real-time market data. | Flask, JavaScript, HTML/CSS |
 | 🐛 **BugFixTutor** | Interactive debugging tutor explaining Python errors & generating step-by-step solutions. | Django, Python, HTML/CSS |
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadityaraj2532&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aaditya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaraj2532&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityaraj2532&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
 
 ---
 
