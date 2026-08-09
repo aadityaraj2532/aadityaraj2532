@@ -20,7 +20,6 @@ I'm **Aaditya Raj**, a Full Stack & AI Software Developer and Computer Science u
 - Python
 - Java
 - JavaScript
-- TypeScript
 - SQL
 
 ### 🎨 Frontend
@@ -34,7 +33,6 @@ I'm **Aaditya Raj**, a Full Stack & AI Software Developer and Computer Science u
 ### ⚙️ Backend
 - FastAPI
 - Django
-- Flask
 - Node.js
 - Express.js
 - REST APIs
@@ -46,8 +44,6 @@ I'm **Aaditya Raj**, a Full Stack & AI Software Developer and Computer Science u
 - Prompt Engineering
 - OpenAI API
 - Groq API
-- Hugging Face
-- AI Agents
 
 ### 🗄️ Databases
 - MongoDB
@@ -57,17 +53,13 @@ I'm **Aaditya Raj**, a Full Stack & AI Software Developer and Computer Science u
 ### ☁️ Cloud & DevOps
 - Git
 - GitHub
-- Docker
 - Vercel
 - Render
-- Linux
 
 ### 🧰 Tools & Technologies
-- Postman
 - VS Code
 - GitHub Actions
 - Celery
-- LangSmith
 - JWT Authentication
 - Firebase Authentication
 
@@ -75,8 +67,7 @@ I'm **Aaditya Raj**, a Full Stack & AI Software Developer and Computer Science u
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Operating Systems
-- Database Management Systems
-- Computer Networks
+- Database Management System
 
 ---
 
