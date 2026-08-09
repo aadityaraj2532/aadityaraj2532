@@ -6,35 +6,84 @@ I'm **Aaditya Raj**, a Full Stack & AI Software Developer and Computer Science u
 
 ## ⚡ About Me
 
-- 📌 **Pursuing B.Tech in CS**: Computer Science student at Sitare University (SRMU), Lucknow, recipient of the **100% Sitare CS Scholarship**.
+- 📌 **Pursuing B.Tech in CS**: Computer Science student at Sitare University (SRMU), recipient of the **100% Sitare CS Scholarship**.
 - 💻 **AI & Web Development**: Passionate about integrating Large Language Models (LLMs) and AI capabilities into full-stack applications.
-- 🚀 **Full Stack Expertise**: Experienced in crafting robust backend microservices with **Python (FastAPI, Django, Node.js, Express.js)** and modern responsive interfaces with **React, & Tailwind CSS**.
-- 🛠️ **Problem Solving & Systems**: Solid foundation in Data Structures & Algorithms, OOP, Database Management (MySQL, MongoDB, SQLite), and Linux.
+- 🚀 **Full Stack Expertise**: Experienced in building backend services with **Python (FastAPI, Django), Node.js, Express.js** and responsive frontends with **React, TypeScript, and Tailwind CSS**.
+- 🛠️ **Problem Solving & Systems**: Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, Databases, and Linux.
 - 💡 **Open to Opportunities**: Actively seeking software engineering, full-stack, and AI backend developer internships and roles.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ Skills
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### 💻 Programming Languages
+- Python
+- Java
+- JavaScript
+- TypeScript
+- SQL
 
-### Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🎨 Frontend
+- React
+- HTML5
+- CSS3
+- Tailwind CSS
+- Redux
+- Vite
+
+### ⚙️ Backend
+- FastAPI
+- Django
+- Flask
+- Node.js
+- Express.js
+- REST APIs
+
+### 🤖 AI & Machine Learning
+- LangChain
+- LLM Applications
+- RAG
+- Prompt Engineering
+- OpenAI API
+- Groq API
+- Hugging Face
+- AI Agents
+
+### 🗄️ Databases
+- MongoDB
+- MySQL
+- SQLite
+
+### ☁️ Cloud & DevOps
+- Git
+- GitHub
+- Docker
+- Vercel
+- Render
+- Linux
+
+### 🧰 Tools & Technologies
+- Postman
+- VS Code
+- GitHub Actions
+- Celery
+- LangSmith
+- JWT Authentication
+- Firebase Authentication
+
+### 📚 Computer Science Fundamentals
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- Database Management Systems
+- Computer Networks
 
 ---
 
 ## 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
-| :--- | :--- | :--- |
+| :------ | :---------- | :--------- |
 | 🤖 **[Portfolio Chatbot / HireMeAI](https://github.com/aadityaraj2532/Portfolio_Chatbot)** | AI assistant streaming resume answers using FastAPI & Groq LLM. | FastAPI, React, Groq, TypeScript |
 | 🏡 **SmartDwell** | Modern real estate platform with AI-powered property insights & analysis. | React, TypeScript, Tailwind CSS |
 | 🎯 **InterviewIQ.AI** | Full-stack AI interview preparation platform with real-time performance evaluation. | React, Redux, Node.js, MongoDB |
@@ -45,14 +94,11 @@ I'm **Aaditya Raj**, a Full Stack & AI Software Developer and Computer Science u
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadityaraj2532&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaraj2532&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
+<!-- Add GitHub stats cards here -->
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 **Email**: [adityajnvbanka15@gmail.com](mailto:adityajnvbanka15@gmail.com)
-- 🐙 **GitHub**: [github.com/aadityaraj2532](https://github.com/aadityaraj2532)
+- 📧 **Email:** adityajnvbanka15@gmail.com
+- 🐙 **GitHub:** https://github.com/aadityaraj2532
