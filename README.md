@@ -61,7 +61,6 @@ I'm **Aaditya Raj**, a Full Stack & AI Software Developer and Computer Science u
 
 ### 🧰 Tools & Security
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 📚 Computer Science Fundamentals
